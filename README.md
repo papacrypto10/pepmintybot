@@ -20,7 +20,7 @@ git clone https://github.com/Cryptocojak/mintybot.git
 pip install tweepy web3
 ```
 
-3. Set up your `.env` file with the following variables:
+3. Set up your `.env.py` file with the following variables:
 - `CONSUMER_KEY`
 - `CONSUMER_SECRET`
 - `ACCESS_TOKEN`
